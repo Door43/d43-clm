@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clm:home|Door43 (clm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clm|d43-clm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clm/archive/master.zip|d43-clm.zip]]
+
+**Recent Changes**
+{{changes>ns = clm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clm|Ethnologue data]]
+
